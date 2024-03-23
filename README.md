@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisekhkarki" alt="bisekhkarki" /></a> </p>
 
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **bisekhkarki17@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/bisekh karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bisekh karki" height="30" width="40" /></a>
@@ -17,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bisekhkarki&show_icons=true&locale=en" alt="bisekhkarki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bisekhkarki&" alt="bisekhkarki" /></p>
-
